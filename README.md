@@ -17,10 +17,10 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-[ ] Foreword
-[ ] Preface
-[ ] Acknowledgments
-[ ] About the Author
+[x] Foreword
+[x] Preface
+[x] Acknowledgments
+[x] About the Author
 
 Chapter 1: Implementing and Consuming Your First Service
 [ ] What’s a Service?
