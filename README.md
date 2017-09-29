@@ -23,9 +23,9 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] About the Author
 
 Chapter 1: Implementing and Consuming Your First Service
-[ ] What’s a Service?
-[ ] Service Requirements
-[ ] The Ruby Tool Set
+[x] What’s a Service?
+[x] Service Requirements
+[x] The Ruby Tool Set
 [ ] The User Service Implementation
 [ ] Implementing the Client Library
 [ ] Putting It All Together
